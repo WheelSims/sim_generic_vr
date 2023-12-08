@@ -13,3 +13,6 @@
 [submodule "Assets/vr_scenes"]
 	path = Assets/scenes
 	url = https://github.com/WheelSims/vr_scenes.git
+[submodule "Assets/vr_temp_dynamic_objects.git"]
+	path = Assets/vr_temp_dynamic_objects.git
+	url = https://github.com/WheelSims/vr_temp_dynamic_objects.git

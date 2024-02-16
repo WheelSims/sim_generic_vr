@@ -1,6 +1,3 @@
-[submodule "Assets/vr_street_lights"]
-	path = Assets/vr_street_lights
-	url = https://github.com/WheelSims/vr_street_lights.git
 [submodule "Assets/vr_user"]
 	path = Assets/vr_user
 	url = https://github.com/WheelSims/vr_user.git

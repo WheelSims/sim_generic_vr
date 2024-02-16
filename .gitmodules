@@ -7,9 +7,6 @@
 [submodule "Assets/vr_user"]
 	path = Assets/vr_user
 	url = https://github.com/WheelSims/vr_user.git
-[submodule "Assets/vr_scenes"]
-	path = Assets/vr_scenes
-	url = https://github.com/WheelSims/vr_scenes.git
 [submodule "Assets/vr_temp_dynamic_objects"]
 	path = Assets/vr_temp_dynamic_objects
 	url = https://github.com/WheelSims/vr_temp_dynamic_objects.git

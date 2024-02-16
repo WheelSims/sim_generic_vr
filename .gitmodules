@@ -1,0 +1,3 @@
+[submodule "Unity/Assets/vr_scenes"]
+	path = Unity/Assets/vr_scenes
+	url = https://github.com/WheelSims/vr_scenes.git
